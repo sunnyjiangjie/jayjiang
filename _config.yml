@@ -1,13 +1,13 @@
 # Site settings
 title: Jay Blog
 header-img: img/home-bg.jpg
-email: jay.jiang@ipaper.com
+email: sunnyjiangjie@foxmail.com
 description: "A Wonderful Blog by A Packaging Engineer"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+url: "http://jayjiang.me"
+twitter_username: sunnyjiangjie
+github_username:  sunnyjiangjie
+facebook_username:  sunnyjiangjie
 
 # Build settings
 markdown: kramdown

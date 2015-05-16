@@ -4,6 +4,7 @@ title:      "Markdown语法"
 subtitle:   ""
 date:       2015-04-26 22:00:00
 author:     "Jay jiang"
+category:     Lesson
 header-img: "img/post-bg-02.jpg"
 ---
 Markdown 是一种轻量级标记语言，能将文本换成有效的XHTML(或者HTML)文档，它的目标是实现易读易写，成为一种适用于网络的书写语言。  

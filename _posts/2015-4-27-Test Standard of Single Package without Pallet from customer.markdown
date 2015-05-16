@@ -4,6 +4,7 @@ title:      "Test Standard of Single Package without Pallet from customer"
 subtitle:   ""
 date:       2015-04-27 22:00:00
 author:     "Jay jiang"
+category:     Packaging
 header-img: "img/post-bg-03.jpg"
 ---
 **This Standard applies to Gross mass of package < 100 kg (220.5 lb)**

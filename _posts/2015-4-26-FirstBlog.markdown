@@ -4,6 +4,7 @@ title:      "My First Blog"
 subtitle:   " "
 date:       2015-04-26 21:00:00
 author:     "Jay jiang"
+category:     Journal
 header-img: "img/post-bg-06.jpg"
 ---
 &emsp;&emsp;从最开始想通过Django，自己做搭建一个博客网站，但到最后却因为加载CSS的时候出了问题，查了许久资料，解决了CSS加载的问题，却又发现站点管理的CSS丢了，原因好像就是出在解决CSS加载的代码上。。。到最后就懒得做了。

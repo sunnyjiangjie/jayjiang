@@ -4,6 +4,7 @@ title:      "缓冲包装设计方法"
 subtitle:   ""
 date:       2015-05-14 22:00:00
 author:     "Jay jiang"
+category:     Packaging
 header-img: "img/post-bg-04.jpg"
 ---
 &emsp;&emsp;包装（packaging）为在流通过程中保护产品，方便储运，促进销售，按一定的技术方法所用的容器、材料和辅助物等的总体名称。  
