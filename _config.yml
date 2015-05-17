@@ -3,8 +3,8 @@ title: Jay Blog
 header-img: img/home-bg.jpg
 email: sunnyjiangjie@foxmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+baseurl: ""
+url: "http://jayjiang.com"
 twitter_username: sunnyjiangjie
 github_username:  sunnyjiangjie
 facebook_username:  sunnyjiangjie
