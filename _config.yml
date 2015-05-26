@@ -1,5 +1,5 @@
 # Site settings
-title: Jay Blog
+title: 江杰の博客
 header-img: img/home-bg.jpg
 email: sunnyjiangjie@foxmail.com
 description: "A Wonderful Blog by A Packaging Engineer"
@@ -13,5 +13,5 @@ facebook_username:  sunnyjiangjie
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
