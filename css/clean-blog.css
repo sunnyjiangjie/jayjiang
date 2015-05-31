@@ -5,7 +5,7 @@ body {
 }
 p {
   line-height: 1.5;
-  font-family:Helvetica, Arial, sans-serif;
+  font-family: Calibri, Helvetica, YouYuan, Arial, sans-serif;
   margin: 30px 0;
 }
 p a {
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Microsoft YaHei' 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -396,3 +396,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.read-more {
+    text-transform: uppercase;
+	font-family: YouYuan;
+    font-size: 18px;
+  }
