@@ -17,7 +17,7 @@ description: "A Wonderful Blog by A Packaging Engineer."
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 	<p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
 
-	  <strong><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">阅读全文</a></strong>
+	  <strong><a href="{{ site.baseurl }}{{ post.url }}" class="read-more" target="_blank">阅读全文</a></strong>
 	  </li>
 </div>
 <hr>
